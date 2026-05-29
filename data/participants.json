@@ -1116,5 +1116,18 @@
     "tx_hash": "0xa7d5c4d527184471074b3f7406fdb5cacf2812874a40bdaee28daff19d3ba762",
     "vault_address": "0xa2cCdBF7cc6A079dC8869F6f62db464823FECAAd",
     "paid_at": "2026-05-29T17:47:30.800Z"
+  },
+  {
+    "entry_number": 87,
+    "github_id": 76248304,
+    "github_login": "rusdialamsyahh",
+    "github_avatar": "https://avatars.githubusercontent.com/u/76248304?v=4",
+    "template_title": "Rush D",
+    "app_type": "AI Tool",
+    "pr_number": 135,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/135",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
