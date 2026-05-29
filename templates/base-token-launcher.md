@@ -1,7 +1,7 @@
 ---
 title: Base Token Launcher
 app_type: base-token-launcher
-wallet: 0xYOUR_WALLET_ADDRESS_HERE
+wallet: 0xc335172422ABEB483E97a370Ae6AF03dc29c29C7
 ---
 
 You are an expert Web3 full-stack developer. Build a complete token launcher app on Base L2 where users can create and deploy their own ERC-20 token in one click — no coding required.
