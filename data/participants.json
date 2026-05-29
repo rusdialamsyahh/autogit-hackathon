@@ -1181,5 +1181,18 @@
     "tx_hash": "0x9857817082cc7510010f73ba39d1f5226b3da23cbc34f4df3944ff7886f02e33",
     "vault_address": "0xd15742BA8c2C0F4B4198dA618e29Fc7Ab5d3D934",
     "paid_at": "2026-05-29T17:56:33.200Z"
+  },
+  {
+    "entry_number": 92,
+    "github_id": 278234340,
+    "github_login": "asilet732",
+    "github_avatar": "https://avatars.githubusercontent.com/u/278234340?v=4",
+    "template_title": "Brah Capytal",
+    "app_type": "brah-capytal",
+    "pr_number": 140,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/140",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
