@@ -1035,8 +1035,8 @@
     "app_type": "saas-dashboard",
     "pr_number": 122,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/122",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xdfeb17aacad5a8abcddd5c97053babac4f90d3eec52029b4ec07b1a3cfaf785d",
+    "vault_address": "0xEB9FC486405E05FB9BA9cf6e6a4D592c89142d4f",
+    "paid_at": "2026-05-29T17:15:47.535Z"
   }
 ]
