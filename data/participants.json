@@ -1129,5 +1129,18 @@
     "tx_hash": "0xf46e9028f1b4ce793dfe6fe5c0331552d771ada02a3730098534504620956b12",
     "vault_address": "0xCeb790b2C0DeDB98B0b99224330579ecd4Ee666e",
     "paid_at": "2026-05-29T17:49:27.218Z"
+  },
+  {
+    "entry_number": 88,
+    "github_id": 277305793,
+    "github_login": "zth-droid",
+    "github_avatar": "https://avatars.githubusercontent.com/u/277305793?v=4",
+    "template_title": "Zero TH",
+    "app_type": "zero-th",
+    "pr_number": 136,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/136",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
